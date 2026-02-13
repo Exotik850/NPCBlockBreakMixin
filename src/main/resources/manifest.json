@@ -1,7 +1,7 @@
 {
     "Group": "com.byt3",
     "Name": "NPCBreakBlockMixin",
-    "Version": "0.0.1",
+    "Version": "0.0.2",
     "Description": "This mod adds a mixin to patch the `BreakBlockInteraction`, this allows NPC's to break blocks with items.",
     "Authors": [
         {
